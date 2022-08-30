@@ -11,6 +11,6 @@ An experiment on procedurally generated spherical world and biomes
 
 Techniques including: marching cube, 3D noise, fractal brownian motion, domain wrapping, voxal fluid, multiple voxal terrain brush, terracing terrain through noise, some optimizations like chunk culling and procedural generation 
 
-<a href = https://github.com/FzComet206/Project-Terraces</a>
+<a href = https://github.com/FzComet206/Project-Terraces> </a>
 
 ![Terraforming and voxel fluids](Images/Realm.png)

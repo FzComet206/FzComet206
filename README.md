@@ -1,4 +1,4 @@
-#### Hi I'm Zibo Cao. I am a student in University of Connecticut. I work on some web and Unity projects in my spare time. ####
+#### Hi I'm Zibo Cao. I am a student at University of Connecticut. I work on some web and Unity projects in my spare time. ####
 
 
 #### Realtime volumetric rendering with raymarching (real time stable fluid with volumetric rendering soon) ####

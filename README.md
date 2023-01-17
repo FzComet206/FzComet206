@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/24278214/202048267-4c014e95-7553-43c7-
 
 ## Another hobby project: Project Terraces ##
 
-### Check this out! <a href = https://github.com/FzComet206/Project-Terraces/blob/master/README.md </a> ###
+### Check this out! <a href = https://github.com/FzComet206/Project-Terraces/blob/master/README.md> Project Terrace Dev Blog</a> ###
 #
 
 

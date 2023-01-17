@@ -9,11 +9,16 @@ https://user-images.githubusercontent.com/24278214/202048267-4c014e95-7553-43c7-
 
 Techniques including: marching cube, 3D noise, fractal brownian motion, domain wrapping, voxal fluid, multiple voxal terrain brush, terracing terrain through noise, some optimizations like chunk culling and procedural generation 
 
+A Smooth Version of the world:
+![Terraforming and voxel fluids](Images/Realm0.png)
+
+A Blocky Version of the world:
+![Terraforming and voxel fluids](Images/Realm1.png)
+
 Check this out! <a href = https://github.com/FzComet206/Project-Terraces>
   Project Terraces
 </a>
 
-![Terraforming and voxel fluids](Images/Realm.png)
 
 
 ### An experiment on procedurally generated spherical world and biomes ###

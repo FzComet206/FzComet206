@@ -1,7 +1,9 @@
 #### Hi I'm Zibo Cao. I am currently a undergraduate student at University of Connecticut. I experiment with graphic programming and Unity in my spare time. ####
 
 
-## Realtime volumetric rendering with raymarching ##
+## Realtime volumetric rendering with ray marching ##
+
+### Check this out! <a href = https://github.com/FzComet206/Volumetirc-Rendering/blob/master/README.md>  Volumetric Rendering Dev Blog </a> ###
 
 https://user-images.githubusercontent.com/24278214/216487840-55d112b2-dcc6-4319-a852-b059c86c2a53.mp4
 

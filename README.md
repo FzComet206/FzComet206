@@ -1,5 +1,15 @@
 #### Hi I'm Zibo Cao. I am currently a undergraduate student at University of Connecticut. I experiment with graphic programming and Unity in my spare time. ####
 
+
+## An attempt at implementing Jos Stam's Stable Fluid (Rendered using VFX particles)
+
+
+
+https://user-images.githubusercontent.com/24278214/233931911-251217e7-7489-473a-85cc-ecbd442485b8.mp4
+
+
+
+
 ## Procedural Animation ##
 
 

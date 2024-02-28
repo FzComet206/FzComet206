@@ -1,4 +1,4 @@
-#### Hi I'm Zibo Cao. I am currently a graduate student at Boston. I experiment with Unity engine and web development in my spare time. ####
+#### Hi I'm Zibo Cao. I am currently a graduate student in Boston. I experiment with Unity engine and web development in my spare time. ####
 
 
 ## An attempt at implementing Jos Stam's Stable Fluid (Visualized with VFX particles)

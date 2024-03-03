@@ -1,6 +1,18 @@
 #### Hi I'm Zibo Cao. I am currently a graduate student in Boston. I experiment with Unity engine and web development in my spare time. ####
 
 
+## Current Development
+Geek Codex
+
+Introducing a dynamic web application designed to showcase and discover creative portfolios! Geek Codex is a vibrant community where users can share and discover their work through simple posts that include an image, summary, and a URL while engaging with others by commenting, liking, and following. Whether it's a blog, GitHub repository, or personal website, our platform serves as a gateway to a world of creativity and innovation. Join us to expose your work to a like-minded audience and explore the endless possibilities of others' creations!
+
+Demo Page
+
+![page](https://github.com/FzComet206/FzComet206/assets/24278214/a156cbc7-db7b-4718-a7da-24f2f8bee770)
+
+
+
+
 ## An attempt at implementing Jos Stam's Stable Fluid (Visualized with VFX particles)
 
 

@@ -1,4 +1,4 @@
-#### Hi I'm Zibo Cao. I am currently a graduate student in Boston. I experiment with Unity engine and web development in my spare time. ####
+#### Hi I'm Zibo Cao. I am currently a graduate student in Boston. I experiment with Unity engine and web development. ####
 
 
 ## Current Development

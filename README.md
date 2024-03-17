@@ -6,15 +6,15 @@ Geek Codex
 
 Introducing a dynamic web application designed to showcase and discover creative portfolios! Geek Codex is a vibrant community where users can share and discover their work through simple posts that include an image, summary, and a URL while engaging with others by commenting, liking, and following. Whether it's a blog, GitHub repository, or personal website, our platform serves as a gateway to a world of creativity and innovation. Join us to expose your work to a like-minded audience and explore the endless possibilities of others' creations!
 
-Demo Page
+Demo Page 1
 
 ![image](https://github.com/FzComet206/FzComet206/assets/24278214/77ea38e5-669f-4811-bd22-9f61ac0b3916)
 
+Demo Page 2
 
 ![image](https://github.com/FzComet206/FzComet206/assets/24278214/91de0646-8b8a-4cdc-bcdb-c87a91f761ac)
 
 
-![image](https://github.com/FzComet206/FzComet206/assets/24278214/0704c38e-a59e-4085-a361-95b697fa0dd7)
 
 
 

@@ -8,13 +8,8 @@ Introducing a dynamic web application designed to showcase and discover creative
 
 Demo Page 1
 
-![image](https://github.com/FzComet206/FzComet206/assets/24278214/44f97b28-a29f-471e-8886-7925c8f28eaa)
+![image](https://github.com/FzComet206/FzComet206/assets/24278214/4950ffc0-8990-4522-8ca6-2030f2fc650a)
 
-
-
-Demo Page 2
-
-![image](https://github.com/FzComet206/FzComet206/assets/24278214/74984085-fe66-484e-bb1e-365e80721d13)
 
 
 

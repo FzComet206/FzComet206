@@ -4,9 +4,11 @@
 ## Current Development
 Geek Codex
 
-https://geekcodex.org/
+https://geekcodex.org
 
-Introducing a dynamic web application designed to showcase and discover creative portfolios! Geek Codex is a vibrant community where users can share and discover their work through minimal style posts that include an image, a title, a summary, and a URL while engaging with others by liking posts and following authors. Whether it's a blog, GitHub repository, or personal website, our platform serves as a gateway to a world of creativity and innovation. Join us to expose your work to a like-minded audience and explore the endless possibilities of others' creations!
+Although fully deployed on Amazon Web Services. This application is meant to be a personal project.
+
+Introducing a dynamic web application designed to showcase and discover creative portfolios! Users can make simple posts that include an image, summary, and a URL while engaging with others by liking, and following. The content of each post could be a blog, GitHub repository, or a link personal website. Register to expose your work!
 
 Demo Page 1
 

@@ -5,6 +5,7 @@
 Geek Codex
 
 Website: https://geekcodex.org
+
 Details: https://github.com/FzComet206/GeekCodex-Client/blob/main/README.md
 
 Although fully deployed on Amazon Web Services. This application is meant to be a personal project.

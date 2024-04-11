@@ -12,9 +12,10 @@ Although fully deployed on Amazon Web Services. This application is meant to be 
 
 Introducing a dynamic web application designed to showcase and discover creative portfolios! Users can make simple posts that include an image, summary, and a URL while engaging with others by liking, and following. The content of each post could be a blog, GitHub repository, or a link personal website. Register to expose your work!
 
-Demo Page 1
+Demo Page
 
-![image](https://github.com/FzComet206/FzComet206/assets/24278214/4950ffc0-8990-4522-8ca6-2030f2fc650a)
+![image](https://github.com/FzComet206/FzComet206/assets/24278214/50873ea4-098c-4db1-8daa-0ba7ca8a5968)
+
 
 
 

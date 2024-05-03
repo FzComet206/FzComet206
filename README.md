@@ -1,8 +1,7 @@
 #### Hi I'm Zibo Cao. I am currently a graduate student in Boston. I experiment with Unity engine and web development. ####
 
 
-## Current Development
-Geek Codex
+## Geek Codex ##
 
 Website: https://geekcodex.org
 

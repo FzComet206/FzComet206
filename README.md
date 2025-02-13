@@ -11,6 +11,8 @@ Website: https://mynocturneapp.com/
 
 My largest project so far. This is a real-time music streaming application, utilizing a concurrent Rust backend (Axum) to handle streaming and state management. Implemented with WebRTC.rs for low latency audio streaming.
 
+Users can upload and process files for broadcasting via Youtube urls or Youtube Playlist urls. The owner of the session can add processed files into a queue by clicking on it. The queue can be reordered via drag and drop, and the changes are made with low latency!
+
 
 Landing page:
 ![image](https://github.com/user-attachments/assets/ce4c585f-8803-499c-9af1-c5d451d1baba)
